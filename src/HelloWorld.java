@@ -10,5 +10,6 @@ public class HelloWorld {
         System.out.println("Hello World123");
 
         System.out.println("Happy New Year 2024");
+        System.out.println("Hello birthday");
     }
 }
